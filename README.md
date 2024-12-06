@@ -1,6 +1,7 @@
 ## Hi there! 🐾
 
-You found my github! This page functions as a linktree to all my public accounts
+You found my github! This page functions as a linktree to all my public accounts 
+
 Why yes, I do use arch :P
 
 - BLUESKY: https://bsky.app/lukirudaka
