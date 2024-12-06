@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+You found my github! This page functions as a linktree to all my public accounts
+
+- BLUESKY: https://bsky.app/lukirudaka
+- DISCORD (server): https://discord.gg/jpqZFJBFNS
+
+![IMG_7863](https://github.com/user-attachments/assets/17abba27-080f-48a2-ac7f-306493f8fb09)
+
+
+NOTE: I do not sign strawpages or atabooks. Quit asking; I'm tired of it.
 <!--
 **lukirudaka/lukirudaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
