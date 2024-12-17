@@ -6,6 +6,7 @@ Why yes, I do use arch :P
 
 - BLUESKY: https://bsky.app/lukirudaka
 - DISCORD (server): https://discord.gg/jpqZFJBFNS
+- LOCAL FUR GROUP LINKTREE: https://linktr.ee/opencoast
 
 > [!NOTE]
 > I do not sign strawpages or atabooks. Quit asking, because I'm tired of it.
