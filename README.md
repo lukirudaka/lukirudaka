@@ -6,7 +6,7 @@ The artists behind my badge are Meowingdread and Ellie.
 BELOW IS A WORK IN PROGRESS
 ## My socials
 ### Bluesky
-[<img src="https://github.com/user-attachments/assets/e8b7a0ec-0a4b-48ff-9215-3f3c695d7f6f">](https://bsky.app/profile/lukirudaka.bsky.social)
+[<img src="https://github.com/lukirudaka/lukirudaka/blob/main/Luki-Bluesky.png?raw=true">](https://bsky.app/profile/lukirudaka.bsky.social)
 
 - BLUESKY: https://bsky.app/lukirudaka
 - DISCORD (server): https://discord.gg/jpqZFJBFNS
