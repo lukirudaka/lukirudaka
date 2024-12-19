@@ -4,15 +4,14 @@ Please do not ask me to sign atabooks or strawpages. I don't do those, sorry.
 The artists behind my badge are Meowingdread and Ellie.  
 
 BELOW IS A WORK IN PROGRESS
-## My socials
+## Click the images to go to my socials
 ### Bluesky
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/Luki-Bluesky.png?raw=true">](https://bsky.app/profile/lukirudaka.bsky.social)
-
-- BLUESKY: https://bsky.app/lukirudaka
-- DISCORD (server): https://discord.gg/jpqZFJBFNS
-- LOCAL FUR GROUP LINKTREE: https://linktr.ee/opencoast
-- FURTRACK (CHARACTER TAG): https://www.furtrack.com/index/character:luki_(puro)
-- FURTRACK (PROFILE): https://www.furtrack.com/index/character:luki_(puro)
+### Discord Server
+[<img src="https://github.com/lukirudaka/lukirudaka/blob/main/DiscordPhotoLink.png?raw=true">](https://discord.gg/jpqZFJBFNS)
+## FurTrack
+[<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTCharacterTagLabel.png?raw=true">](https://www.furtrack.com/index/luki_(puro))
+[<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTProfileLabel.png?raw=true">](https://www.furtrack.com/user/lukirudaka/)
 
 ![IMG_7863](https://github.com/user-attachments/assets/17abba27-080f-48a2-ac7f-306493f8fb09)
 
