@@ -13,9 +13,6 @@ BELOW IS A WORK IN PROGRESS
 - FURTRACK (CHARACTER TAG): https://www.furtrack.com/index/character:luki_(puro)
 - FURTRACK (PROFILE): https://www.furtrack.com/index/character:luki_(puro)
 
-> [!NOTE]
-> 
-
 ![IMG_7863](https://github.com/user-attachments/assets/17abba27-080f-48a2-ac7f-306493f8fb09)
 
 
