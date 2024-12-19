@@ -2,9 +2,8 @@
 You found my github! This page functions as a linktree to all my public accounts.  
 Please do not ask me to sign atabooks or strawpages. I don't do those, sorry.  
 The artists behind my badge are Meowingdread and Ellie.  
-
-BELOW IS A WORK IN PROGRESS
-## Click the images to go to my socials
+## My Socials
+Tap the images to be brought to that profile
 ### Bluesky
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/Luki-Bluesky.png?raw=true">](https://bsky.app/profile/lukirudaka.bsky.social)
 ### Discord Server
