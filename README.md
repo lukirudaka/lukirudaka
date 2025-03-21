@@ -1,6 +1,6 @@
 # Hi there! 🐾
 You found my github! This page functions as a linktree to all my public accounts.  
-Do not ask me to sign atabooks or strawpages or follow me to attempt to get me to do so.  
+Do not ask me to sign atabooks or strawpages, or follow me to attempt to get me to do so.  
 The artists behind my badge are Meowingdread and Ellie.  
 ## My Socials
 Tap the images to be brought to that profile
