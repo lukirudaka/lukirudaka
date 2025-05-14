@@ -3,7 +3,8 @@ You found my github! This page functions as a linktree to all my public accounts
 Do not ask me to sign atabooks or strawpages, or follow me to attempt to get me to do so.  
 The artist behind my badge is Meowingdread, otherwise known as Squeaks.
 ## My Socials
-Tap the images to be brought to that profile
+Tap the images to be brought to that profile  
+These will all go to external sites.
 ### Bluesky
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/Luki-Bluesky.png?raw=true">](https://bsky.app/profile/lukirudaka.bsky.social)
 ### Discord Server
