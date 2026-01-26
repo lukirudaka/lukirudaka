@@ -7,8 +7,6 @@ Tap the images to be brought to that profile
 These will all go to external sites.
 ### Bluesky
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/Luki-Bluesky.png?raw=true">](https://bsky.app/profile/lukirudaka.bsky.social)
-### Discord Server
-[<img src="https://github.com/lukirudaka/lukirudaka/blob/main/DiscordPhotoLink.png?raw=true">](https://discord.gg/jpqZFJBFNS)
 ## FurTrack
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTCharacterTagLabel.png?raw=true">](https://www.furtrack.com/index/luki_(puro))
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTProfileLabel.png?raw=true">](https://www.furtrack.com/user/lukirudaka/)
