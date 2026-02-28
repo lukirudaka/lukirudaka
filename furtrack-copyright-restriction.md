@@ -3,12 +3,12 @@
 Note that when you DO upload with an "all rights reserved" license, I will send a message to you that links this document. I will only do this **once**!  
 
 ## When you post a photo of Luki onto FurTrack, even under "all rights reserved" copyright...  
+Note that this is at it's most strict level. These will change with more laxe copyright options (such as CC-BY)
 ### I am allowed to:
 - re-post the photo you took of Luki onto my social media, so long as I credit you (as in the photographer).
 ### I am NOT allowed to:
 - Edit your photos
 - Monetize any posts or videos with your photos in them  
-Note that this is at it's most strict level. These will change with more laxe copyright options (such as CC-BY)
 ## "I don't agree! Take down your post!"
 By posting onto FurTrack, so long as it is up, you give me implicit permission to use that photo with the above terms.  
 If you wish to take down any posts I have made using your photo, here's what the process looks like:
