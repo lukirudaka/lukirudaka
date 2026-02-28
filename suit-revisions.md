@@ -4,7 +4,7 @@
 ## V2, revisions 1 to 9:  
     Face remade at Revision 1  
     Bodysuit remade at Revision 4  
-    Started archiving data to old_titan-server (decommissioned after southbridge chip failure) at this stage.  
+    ---=== Started archiving data to old_titan-server (decommissioned after southbridge chip failure) at this stage. ===---  
     Started experimenting with LEDs at Revision 5  
     Replaced old coin-cell eye LEDs with color LEDs at Revision 6  
     Replaced (failed) 80mm fan with a 100mm 12v fan at Revision 7  
