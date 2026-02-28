@@ -12,8 +12,7 @@ Note that when you DO upload with an "all rights reserved" license, I will send 
 ## "I don't agree! Take down your post!"
 By posting onto FurTrack, so long as it is up, you give me implicit permission to use that photo with the above terms.  
 If you wish to take down any posts I have made using your photo, here's what the process looks like:
-- First, you notify me that you wish to take down the photo. You must link both the post you wish to take down, and the original FurTrack post.
-- This step is CRUCIAL. If you were to just take down the FurTrack post, I might not notice!
+- First, you notify me that you wish to take down the photo. You must link both the post you wish to take down, and the original FurTrack post. This step is CRUCIAL. If you were to just take down the FurTrack post, I might not notice!
 - When I acknowledge your intent, I will send a message back, and begin monitoring the FurTrack post, waiting for you to remove it.
 - Once I notice it has gotten removed, take down my post, and then send a message back to notify you the process is finished.
 - Note: If communication is lost for any reason during this process, I will not take it down until communication is restored. Let's show some decency and professionalism.
