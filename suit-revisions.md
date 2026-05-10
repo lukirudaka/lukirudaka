@@ -12,6 +12,6 @@
     Started experimenting with alternate ways to do the neck-to-bodysuit connection at Revision 9  
     ---=== Catastrophic structural failure of the old headbase on 27-DEC-2026 ===---
 ## V3, revision 1 to 1:
-    SoonTM, goal 10-MAR-2026
+    New head base acquired
 
-File last updated on 28-FEB-2026 // file initial creation. tried to go as far back as my memory would allow, so v1 and v2 revisions have likely been condensed.
+File last updated on 10-MAY-2026 // V3 head recieved right before FWA2026.
