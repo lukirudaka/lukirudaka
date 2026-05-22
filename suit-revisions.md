@@ -13,5 +13,7 @@
     ---=== Catastrophic structural failure of the old headbase on 27-DEC-2025 ===---
 ## V3, revision 1 to 1:
     New head base acquired
+    Switched to Neodymium Magnets after FWA2026, 3-stack
+    Added an internal fan to the snout, reused one of the ceramic magnets
 
 File last updated on 10-MAY-2026 // V3 head recieved right before FWA2026.
