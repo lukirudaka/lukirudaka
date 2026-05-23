@@ -1,7 +1,7 @@
 # Hi there! 🐾
 You found my github! This page functions as a linktree to all my public accounts.  
 Do not ask me to sign atabooks or strawpages, or follow me to attempt to get me to do so.  
-The artist behind my badge is Meowingdread, otherwise known as Squeaks.
+The artist behind my badge is Arlo (Toothymvtt)
 ## My Socials
 Tap the images to be brought to that profile  
 These will all go to external sites.
