@@ -16,4 +16,9 @@
     Switched to Neodymium Magnets after FWA2026, 3-stack
     Added an internal fan to the snout, reused one of the ceramic magnets
 
-File last updated on 10-MAY-2026 // V3 head recieved right before FWA2026.
+# Design guidelines, v3 onwards.
+- If electronics of any kind are added, care must be taken to ensure they are removable for cleaning
+- A (magnetically attached) fan in the snout is necessary. FL heat does not play around!
+- Vision must be good enough for me to suit without a handler.
+
+File last updated on 03-JUN-2026 // V3 Guidelines made
