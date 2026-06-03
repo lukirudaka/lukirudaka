@@ -11,10 +11,11 @@
     Replaced 100mm 12v fan with 100mm 5v fan at Revision 8; done due to step-up converter getting dangerously hot  
     Started experimenting with alternate ways to do the neck-to-bodysuit connection at Revision 9  
     ---=== Catastrophic structural failure of the old headbase on 27-DEC-2025 ===---
-## V3, revision 1 to 1:
+## V3, revision 1 to 4:
     New head base acquired
     Switched to Neodymium Magnets after FWA2026, 3-stack
     Added an internal fan to the snout, reused one of the ceramic magnets
+    Added more magnets. Now I can look down without the mask falling off!
 
 # Design guidelines, v3 onwards.
 - If electronics of any kind are added, care must be taken to ensure they are removable for cleaning
