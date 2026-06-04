@@ -15,11 +15,12 @@
     New head base acquired
     Switched to Neodymium Magnets after FWA2026, 3-stack
     Added an internal fan to the snout, reused one of the ceramic magnets
-    Added more magnets. Now I can look down without the mask falling off!
+    Added more magnets. Now I can look down without the mask falling off! Still can't turn rapidly, that'll cause the mask to be yeeted off Luki's face. I broke it a seventh time doing that...
 
 # Design guidelines, v3 onwards.
 - If electronics of any kind are added, care must be taken to ensure they are removable for cleaning
 - A (magnetically attached) fan in the snout is necessary. FL heat does not play around!
-- Vision must be good enough for me to suit without a handler.
+- Vision must be good enough for me to suit without a handler. Depth perception CANNOT be lost.
+- Face is always going to be plush minky.
 
 File last updated on 03-JUN-2026 // V3 Guidelines made
