@@ -14,7 +14,7 @@
 ## V3, revision 1 to 4:
     New head base acquired
     Switched to Neodymium Magnets after FWA2026, 3-stack
-    Added an internal fan to the snout, reused one of the ceramic magnets
+    Added an internal fan to the snout, reused one of the ceramic magnets. Unlike previous iterations, this one has a centrifugal fan.
     Added more magnets. Now I can look down without the mask falling off! Still can't turn rapidly, that'll cause the mask to be yeeted off Luki's face. I broke it a seventh time doing that...
 
 # Design guidelines, v3 onwards.
