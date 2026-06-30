@@ -11,8 +11,7 @@ These will all go to external sites.
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTCharacterTagLabel.png?raw=true">](https://www.furtrack.com/index/luki_(puro))
 [<img src="https://github.com/lukirudaka/lukirudaka/blob/main/FTProfileLabel.png?raw=true">](https://www.furtrack.com/user/lukirudaka/)
 
-![IMG_7863](https://github.com/user-attachments/assets/17abba27-080f-48a2-ac7f-306493f8fb09)
-
+<img width="960" height="1280" alt="IMG_20260508_233315_498" src="https://github.com/user-attachments/assets/c913c39b-1f34-4a17-9bb1-7584e8f18918" />
 
 <!--
 **lukirudaka/lukirudaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
