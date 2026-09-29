@@ -24,4 +24,4 @@
 - Vision must be good enough for me to suit without a handler. Depth perception CANNOT be lost.
 - Face is always going to be plush minky.
 
-File last updated on 28-SEP-2026 // V3 Guidelines made
+File last updated on 28-SEP-2026 // Added V3-R5
