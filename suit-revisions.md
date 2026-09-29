@@ -11,11 +11,12 @@
     Replaced 100mm 12v fan with 100mm 5v fan at Revision 8; done due to step-up converter getting dangerously hot  
     Started experimenting with alternate ways to do the neck-to-bodysuit connection at Revision 9  
     ---=== Catastrophic structural failure of the old headbase on 27-DEC-2025 ===---
-## V3, revision 1 to 4:
+## V3, revision 1 to 5:
     New head base acquired
     Switched to Neodymium Magnets after FWA2026, 3-stack
     Added an internal fan to the snout, reused one of the ceramic magnets. Unlike previous iterations, this one has a centrifugal fan.
     Added more magnets. Now I can look down without the mask falling off! Still can't turn rapidly, that'll cause the mask to be yeeted off Luki's face. I broke it a seventh time doing that...
+    Suit fan broke shortly before the furmeet on 27-SEP-2026. Replaced on 28-SEP-2026, along with two primary magnets that fell off. New magnets are N52-grade neodymium magnets. It actually takes a bit of force to take the mask off the face now. The new fan flows twice as much air, albeit it is slightly larger in diameter by 10 millimeters (60-15; 60 millimeter diameter, 15 millimeter height).
 
 # Design guidelines, v3 onwards.
 - If electronics of any kind are added, care must be taken to ensure they are removable for cleaning
@@ -23,4 +24,4 @@
 - Vision must be good enough for me to suit without a handler. Depth perception CANNOT be lost.
 - Face is always going to be plush minky.
 
-File last updated on 03-JUN-2026 // V3 Guidelines made
+File last updated on 28-SEP-2026 // V3 Guidelines made
